@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Tonomo Release Notes
+  structure:
+    - type: space
+      key: space-1
+      title: Public
+      path: public
+      default: true
+      content:
+        directory: ./public

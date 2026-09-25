@@ -1,5 +1,110 @@
 # 2026 Updates
 
+**Titus Integration - Get Paid Now, Let Agents Pay at Close**\
+Titus is a payment provider built for real estate. Connecting it gives your clients a new way to pay you, and gives you a way to stop waiting on invoices.
+
+<img src=".gitbook/assets/unknown (14).png" alt="" height="388" width="624">
+
+When an agent reaches the payment step, they can either pay right away by card, or choose Pay at Close. If they choose Pay at Close, you are paid straight away and the agent settles up when the property sale closes. You are not financing the gap, and you are not chasing the invoice.
+
+<img src=".gitbook/assets/unknown (15).png" alt="" height="363" width="624">
+
+For agents this removes the awkward part of the conversation, because they no longer have to pay for marketing a property before it has earned them anything. For you it means the money arrives when the work is done rather than whenever the agent gets around to it.
+
+Connect your own Titus account and you will see it appear in three places: a promotion on your booking page so clients know the option exists, Pay at Close alongside the usual card option on the delivery page and invoice, and the payment method on the invoice in your admin view so you can see at a glance how each order was paid.
+
+To set this up: Navigate to \[Org Settings] > \[Features] > \[Third-party connections], turn on Titus, and connect your Titus account. You can edit or disconnect it from the same place at any time.
+
+<img src=".gitbook/assets/unknown (16).png" alt="" height="202" width="448">
+
+One thing to note: Titus charges a fee on Pay at Close transactions, which takes the place of the usual card processing fee, and a separate fee applies to the agent. Your Titus account covers the exact rates.<br>
+
+
+
+**A Brand New Login and Sign Up Experience**\
+Your login page is the first thing your clients see when they arrive at your portal, and it has been completely redesigned.
+
+{% embed url="https://www.loom.com/share/5fe93da077f1461f9218dcd2ec96980a" %}
+
+The new page pairs a large welcome area with a clean sign-in card carrying your logo. Signing in is simpler too: Sign in with Google sits right up front, email and password are entered in two short steps, new accounts confirm their password, and forgot password has been redesigned.
+
+**Make it yours**\
+You can now style the page to match your brand. Upload a background image or video, pick a background colour, and write your own headline and message in your choice of fonts. A live preview shows how it will look on a phone and on a laptop before you save.
+
+To set this up: Navigate to **\[Org Settings] > \[Portal Branding] > \[Login/Sign Up Page].**
+
+
+
+
+
+**Set Up Your Orders Table the Way You Work**\
+Your orders table is now much easier to shape around the way you work:
+
+* Drag the edge of any column to make it wider or narrower.
+* Choosing which columns appear, and the order they appear in, has been redesigned to be quicker to use.
+* Add a column straight from the table.
+* The Services column now sizes itself to fit what is in it.
+
+{% embed url="https://www.loom.com/share/6f58496b8ab3437d9a7f5e35589bab98" %}
+
+Filtering by customer name is also much faster now. Accounts with a large customer list were slow to filter, and that has been sorted.
+
+To find these: Navigate to **\[Order Management].**
+
+
+
+
+
+**Fairer Travel Fees and Bookings Improvements**\
+On orders with more than one photographer, the travel fee is now worked out from the photographer who travels furthest, rather than whoever happened to be picked first. On orders where two people come from opposite ends of your area, the fee now reflects what the job actually costs you. Single-photographer orders are unchanged.
+
+Your selected services now stay put when booking through the Scheduler, even if you switch to another Scheduler tab to check something.
+
+An address typed in by hand now displays the same way as the same address chosen from the Google suggestions.
+
+\
+**Direct Upload, Still Open to Beta Participant**\
+Direct Upload is still open by request while we gather feedback, and it picks up three improvements this round.
+
+You can now build marketing flyers using photos you uploaded through Direct Upload, so the Flyer Builder works the same way whichever route your photos came in by.\
+The Files section also accepts more than PDFs now. You can attach documents, archives and images alongside your photos and videos.\
+You can start creating a listing website straight from the Direct Upload page, without going looking for it elsewhere.
+
+_If you would like Direct Upload switched on for your portal, get in touch and we will set it up for you._
+
+
+
+
+
+**Jobs Management, Still Open to Beta Participant**\
+Jobs Management is also still open by request while we gather feedback, and it picks up two improvements this round.
+
+Assign anyone on your team from a job template\
+Job templates now let you choose any team member as the default editor or reviewer, including admins, staff and contractors. Previously, the Editor and Reviewer options on a template only listed people set up as Photo Editors or Video Editors. If a project manager or operations lead reviewed your work, you had to assign them by hand on every job after it was created. Now you set them once on the template, and every job created from it is assigned automatically.
+
+Jobs opens faster on busy accounts\
+Jobs no longer waits to load your entire customer list before you can start working, so it opens quickly however many customers you have. The Customer Name filter now shows customers as soon as you open it. Type a name or email address to narrow the list down. If you open a saved or shared link that already has a customer filter applied, the filter shows that customer's name.
+
+_If you would like Jobs Management switched on for your portal, get in touch and we will set it up for you._
+
+
+
+
+
+**Minor Enhancements & Bug Fixes**
+
+* The Luxury listing website theme now shows its gallery horizontally, which gives photos more room and suits wide images better.
+* Listing website content is now centred when a listing has no cover photo, instead of sitting off to one side.
+* You can now publish a listing website again from the order details page after it has been unpublished.
+* Fixed an issue where invoice PDFs failed to open.
+* CubiCasa and Esoft are more dependable. When CubiCasa corrects a floor plan, the new version now replaces the old one instead of being skipped or duplicated. Esoft orders are now marked complete once Esoft delivers them. And an error about the owner email that could stop floor plan orders reaching CubiCasa has been fixed.
+* Mobile fixes: the invoice page now scrolls properly in the mobile app, and the Send button on the completion email is no longer cut off when using Chrome on a phone.
+* Fixed an issue where booking through the Scheduler cleared your selected services if you switched to another Scheduler tab to check something.
+
+
+
+
+
 ## 9/14/2026
 
 **Order Floor Plans Through CubiCasa**\

@@ -13,7 +13,7 @@ For agents this removes the awkward part of the conversation, because they no lo
 
 Connect your own Titus account and you will see it appear in three places: a promotion on your booking page so clients know the option exists, Pay at Close alongside the usual card option on the delivery page and invoice, and the payment method on the invoice in your admin view so you can see at a glance how each order was paid.
 
-To set this up: Navigate to \[Org Settings] > \[Features] > \[Third-party connections], turn on Titus, and connect your Titus account. You can edit or disconnect it from the same place at any time.
+To set this up: Navigate to **\[Org Settings] > \[Features] > \[Third-party connections]**, turn on Titus, and connect your Titus account. You can edit or disconnect it from the same place at any time.
 
 <img src=".gitbook/assets/unknown (16).png" alt="" height="202" width="448">
 

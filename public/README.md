@@ -1,5 +1,98 @@
 # 2026 Updates
 
+## 10/8/2026
+
+
+
+**Direct Upload Is Now Available to Everyone**\
+Direct Upload lets you put your photos and videos straight into Tonomo, instead of syncing them across from Dropbox. After a beta with a group of our customers, it is now open to every Tonomo portal.
+
+**Everything you need to deliver a shoot now lives in one place:**
+
+* Upload photos, videos and 360 panoramas directly, or bring files in from Dropbox if that is where they already are.
+* Attach other files alongside your media, such as documents, archives and floor plan images.
+* Build marketing flyers and listing websites from the photos you uploaded, and videos show on the listing website too.
+
+**Deliver without a booking**\
+Sometimes the shoot happens before anyone has made a booking. You can now create a listing straight from Direct Upload, add the client and the address, and go right to uploading. Tonomo creates the order for you in the background, so it still shows up in Order Management like any other order.\
+To try it: Open **\[Create new deliverables]**, choose **\[Create for a new order]**, then pick an existing client or add a new one with their name and email.
+
+**Choose where your final files go**\
+You decide whether your final files are delivered through Dropbox or through Direct Upload. Turn the Dropbox delivery folder off and your final files go through Direct Upload instead. Your RAW folder setting is not affected.
+
+To set this up: Navigate to **\[Configure Booking]** > **\[General]** > **\[Dropbox Settings]**.
+
+In Order Management, the file tile is now labelled Uploaded Files, so it is clear where your uploaded media lives.
+
+{% embed url="https://www.loom.com/share/67dee202b9fb4b6fa90bdc8842f7d745" %}
+
+
+
+**Hide Photos on the Delivery Page**\
+Sometimes an agent wants to leave out a photo before sharing the delivery page with a homeowner. Anyone with the delivery page link can now hide and unhide photos right there, no login needed. Hidden photos also disappear from the customer preview link and the listing website, but they're still included when you download the photos, and you can unhide them at any time.<br>
+
+<figure><img src=".gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+
+To use it: On the delivery page, open the **\[Photos]** tab and click **\[Edit Photos]**. Hide photos one at a time or select several, then click **\[Save]**.
+
+\
+**Deeper Filtering Capabilities with Customer Tags**\
+You can now tag your customers, and those custom tags follow them onto every order they place.
+
+Tag a customer once, for example "VIP", "Monthly billing" or "Needs drone", and the tag appears automatically on all of their orders. Nobody has to remember to add it each time, and your team sees it right where they are working.
+
+Customer tags show up in three places:
+
+* On the customer's profile, under their name.
+* In Order Management, as a Customer Tags column you can also filter by, so you can pull up every order from your VIP clients in one click.
+* On the order details page, in the customer section of the Overview tab.
+
+<img src=".gitbook/assets/unknown (21).png" alt="" height="323" width="624">
+
+Customer tags are for your team only. Your clients never see them.
+
+<img src=".gitbook/assets/unknown (22).png" alt="" height="490" width="533">
+
+To set this up: Navigate to **\[User Management]** > **\[Users]**, open a customer and click **\[Add Tag]**. You can pick existing tags or create a new one on the spot. To see them in Order Management, turn on Customer Tags in **\[Order Management]** > **\[Settings]** > **\[Show Columns]**.
+
+Customer tags work alongside the order tags you already use. Order tags are still added by hand to individual orders.\
+<br>
+
+**Order Management Gets Smarter**
+
+**See your accounting sync status at a glance**\
+If you send invoices to Xero or QuickBooks, you can now see whether each order's invoice has synced without leaving Tonomo. A new Accounting Status column shows one of four states for every order:
+
+* Synced: the invoice is in your accounting software and up to date.
+* Manually Synced: the invoice was synced by hand.
+* Unsynced: the invoice has not been sent yet.
+* Out of Sync: something changed in Tonomo after the invoice was sent, so it is worth a second look.
+
+You can also filter by Accounting Status, so finding every order that still needs attention takes one click.
+
+<img src=".gitbook/assets/unknown (20).png" alt="" height="323" width="624">
+
+To set this up: Navigate to **\[Order Management]** > **\[Settings]** > **\[Show Columns]** and turn on Accounting Status.
+
+**Your table stays the way you set it**\
+The columns you choose, their order and their widths are now saved properly, so your table looks the same after you log out and back in.<br>
+
+
+
+**Minor Enhancements & Bug Fixes**
+
+* The separate "Enable Stripe" switch has been removed, and the payment processor dropdown is now the only setting you need. Pick Stripe, Square or Titus and you are done.
+* The Box listing website theme has been redesigned from the ground up, with a cleaner layout that gives your photos more room.
+* In Orders Management, the newly updated Monthly view now has the date range filter switched off, since the month being looked at already sets the date.
+* Spacing on the Luxury listing website theme has been tidied up, so there are no more empty gaps on the page.
+* 3D tours from Matterport now show a preview in the mobile app.
+* The login page now tells you straight away if an email address has been typed incorrectly.
+* Long titles on booking flow cards no longer spill outside the card.
+* Videos on the delivery page now play properly.
+* QuickBooks invoices now show the customer's email and the correct invoice number.
+
+
+
 
 
 ## 9/25/2026

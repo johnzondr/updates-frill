@@ -1,8 +1,59 @@
 # 2026 Updates
 
+## 10/21/2026
+
+**Clients Can Now Pay by Bank Transfer with Stripe**\
+If you take payments through Stripe, your clients can now pay straight from a US bank account, at checkout when they book and on the invoice payment page. Square portals already had this option, and now Stripe portals do too.
+
+<img src=".gitbook/assets/unknown (23).png" alt="" height="723" width="457">
+
+Paying by bank is usually cheaper for you than a card on larger invoices, and some agents simply prefer it. Your client picks the bank option, logs in to their bank to link the account, and confirms the payment. Stripe emails them a copy of the authorisation.
+
+**A few things to note:**
+
+* It is switched on automatically for Stripe portals that charge in US dollars. There is nothing to set up in Tonomo, but your Stripe account needs to be able to accept bank payments.&#x20;
+* Portals that charge in another currency will see the bank option greyed out, for both Stripe and Square.&#x20;
+* Bank payments are labelled clearly, as "US bank account" in your payment list and "Paid by US bank account" in your client's payment history.&#x20;
+* A bank payment can take up to 4 business days to clear. Tonomo marks the order as paid straight away, so files unlock without waiting. If a bank payment later fails, you will see it in your Stripe account and can update the payment status in Tonomo.&#x20;
+* Stripe's standard bank payment fees apply, and they are charged by Stripe.
+
+
+
+\
+**Jobs Management: Find the Right Job Faster - Still Open to Beta Participant**
+
+Jobs Management is also still open by request while we gather feedback, and it picks up several improvements this round. Teams using Jobs Management get more ways to see and sort their work.
+
+**Brokerage and Listing Agent columns**\
+Two new columns show who each job is for. The Brokerage column shows which agency the job belongs to, so your editors know which brokerage's editing rules apply, and you can filter by it too. The Listing Agent column shows the agent on the listing, rather than whoever made the booking, which is often an assistant.
+
+<img src=".gitbook/assets/unknown (24).png" alt="" height="343" width="624">
+
+**Order Tags and Customer Tags in Jobs**\
+The tags you use on orders and customers now carry through to Jobs. The Order Tags column shows by default, and you can turn on Customer Tags in **\[Settings] > \[Show Columns]**. You can also filter by either one under **\[Add Filter]**, and filtered views can be bookmarked or shared with your team. Tags you have already added show up straight away.
+
+<img src=".gitbook/assets/unknown (25).png" alt="" height="343" width="624">
+
+To find these: Navigate to **\[Job Management] > \[Jobs]**.
+
+_If you would like Jobs Management switched on for your portal, get in touch and we will set it up for you._
+
+
+
+**Minor Enhancements & Bug Fixes**
+
+* In Order Management, the order number now sits as a small tag above the property address instead of in its own column, giving the table more room. Click it to open the order, and you can still search by order number.
+* Finished CubiCasa floor plans now sync back to Tonomo properly, and the Sync button on Direct Upload works again.
+* If a client's Titus payment is declined, the booking no longer goes through.
+* Order details now only shows the payments that belong to that order.
+* Payments made with account credit, and payments marked as paid by an admin, are now labelled correctly in order details.
+* Delivery photos from Direct Upload now show on the delivery page while an order is unpaid, with files still locked until payment.
+
+
+
+
+
 ## 10/8/2026
-
-
 
 **Direct Upload Is Now Available to Everyone**\
 Direct Upload lets you put your photos and videos straight into Tonomo, instead of syncing them across from Dropbox. After a beta with a group of our customers, it is now open to every Tonomo portal.

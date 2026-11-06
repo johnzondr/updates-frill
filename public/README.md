@@ -1,5 +1,57 @@
 # 2026 Updates
 
+## 11/6/2026
+
+**Book Orders Straight From the Chat (Beta)**\
+When we launched the Tonomo MCP in July, you could connect Claude or ChatGPT and ask about your data. Now admins can quote and book from it. Describe the booking in plain language, the assistant asks for anything missing and shows you one quote, and you confirm. It handles coupons, tiers, add-ons, twilight and separate appointments, and picks and prices the photographer just like your booking page — the order comes out identical to one booked in the portal.  This feature will remain in beta while we gather feedback, so please send over your ideas for improvements.
+
+{% embed url="https://www.loom.com/share/cb73f9d3c4e140c3aad351c2486a7fd1" %}
+
+
+
+**Job Management: Editors View, Permissions and Better Filtering (Beta)**\
+Three additions to the Jobs Management beta this round.
+
+* **A new Editors tab** sits between the job tabs and the Dashboard, grouping every job by who's editing it. Each editor gets their own section with their photo, name and job count, with the busiest editors first — so you can see at a glance who's buried, who's free, and rebalance without leaving the page.  Reassign a job and it moves to its new editor's section immediately.
+* **Users with Contactor permission level can finally work in Jobs Management**. A contractor sees Jobs Management in their menu with only the jobs they're editing or reviewing. They can move a job's status, escalate it, chat on it and deliver files. Priority, due date and assignments stay view-only for them. Admins keep full access. Staff keep everything on jobs but no longer open the Jobs Templates page or the Dashboard — those two are now Admin-only.
+* **The advanced filter** now keeps its default and editing state when collapsed, matching how it behaves expanded.
+
+Jobs Management remains open by request while we gather feedback — reach out if you'd like it on your portal.
+
+<figure><img src=".gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Bank Payments That Fail Are Now Handled Properly**\
+A bank payment counts as paid at checkout, but the bank can bounce it days or weeks later — and until now Tonomo never found out. Now if one fails, the payment shows Failed with the bank’s reason, the invoice reopens, a locked order locks again, and your client gets an email with a link to pay. You’re emailed too, and they can’t pay you by bank again until you lift the block.&#x20;
+
+
+
+**Titus: agents get nudged to finish their Pay at Close application**\
+If an agent picks Pay at Close and wanders off without submitting, their slot quietly expires after an hour. They now get one reminder email 30 minutes in, with a link straight back to finish.
+
+
+
+**Esoft: Order Link on Every Stage**\
+The embedded Esoft order link now appears at every stage of an order, not just some. Wherever you are in an order's lifecycle, you can jump straight to the Esoft order rather than hunting for it.
+
+<figure><img src=".gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Minor Enhancements & Bug Fixes**
+
+* Booking errors now tell you the real reason an address can't be booked — genuinely outside your service area, no photographer with the right skill set, or beyond the travel time limit. Your custom out-of-service-area message now only appears when the address really is outside your zones, instead of standing in for every failure.
+* Removed the Veo watermark from the preset login background videos in Portal Branding.
+* Fixed a batch of delivery sync and video issues: deliveries that reported "sync failed," a video error that appeared even when the delivery synced fine, video uploads now retrying after a temporary error, duplicate videos created by resyncing while one was still processing, and video details saved against the wrong record when a file was sent twice.
+* Fixed an issue where the brokerage logo watermark did not appear on Direct Upload deliveries.
+* Fixed an issue where delivery photos were not visible on an unpaid order with locked files.
+* Resolved an issue causing Order Management to hang or stop responding on large accounts.
+* Fixed an issue where orders did not appear on the Order Dashboard for clients who sign in by phone.
+* Fixed an issue where the missed-scheduling card did not group photographers by service zone.
+* Contractors can no longer open the full company Scheduler from Order Management.
+* Fixed a price that broke across two lines in the Lumen listing website details band.
+
 ## 10/21/2026
 
 **Clients Can Now Pay by Bank Transfer with Stripe**\

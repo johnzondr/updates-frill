@@ -1,5 +1,128 @@
 # 2026 Updates
 
+## 11/19/2026
+
+**A Simpler Way to Find Your Settings**\
+Your sidebar has been tidied up, and all your settings now live in one place.
+
+**A cleaner sidebar**\
+Org Settings, Configure Booking and Refer Tonomo have been replaced by a single Settings entry at the bottom of the Admin section. Orders Management, Jobs Management and Users Management are now simply Orders, Jobs and Users, and your Profile and Inbox have moved into the menu at the top right.
+
+<img src=".gitbook/assets/Pasted image 2026-11-19 08.33.34.png" alt="" height="311" width="624">
+
+**One Settings page for everything**\
+Click \[Settings] and you will see everything grouped into cards:
+
+* Organization: General Settings, Team, Features, Localization, Customization, Portal Branding and more.
+* Booking: General Settings, Scheduling, Invoicing, Services, Packages, Booking Flows, Custom Packages and Coupons.
+* Referral: Refer Tonomo.
+
+You only see the settings your role allows.
+
+**Booking settings that are easier to work through**\
+Booking General Settings now has a menu on the left, so you can jump straight to the section you need: Booking Page & Behavior, Property Size & Pricing, Scheduling, Payments & Deposits, Notifications, Visibility and Access Permissions, Dropbox, and Webhooks & Widgets. Every setting is still there, with clearer wording. Changes are saved together with one Save button, and Tonomo reminds you if you try to leave with unsaved changes.<br>
+
+<img src=".gitbook/assets/Pasted image 2026-11-19 08.34.09.png" alt="" height="312" width="624">
+
+Where things have moved:
+
+* **\[Configure Booking] > \[General] is now \[Settings] > \[General Settings]**, in the Booking card.
+* Your **\[Org Settings]** pages are now under **\[Settings]**, in the Organization card.
+* **\[Configure Booking] > \[Booking Flows]** is now **\[Settings] > \[Booking Flows]**.
+
+
+
+
+
+**Private Notes That Reach the Right People**\
+Notes about your clients now go exactly where they are needed, and only there.
+
+<img src=".gitbook/assets/Pasted image 2026-11-19 08.36.13.png" alt="" height="312" width="624">
+
+* Photographers see their notes in the Scheduler, right next to the order.
+* Editors see their notes on the job page, under Editing instructions, and can tick them off as noted.
+* Admins and staff see every note on the order details page.
+
+Brokerage notes apply to every agent in that brokerage automatically, and they always show the latest version, so when you update a note, everyone sees the change straight away.
+
+Your team sees the right notes in the right place:
+
+* Photographers see their notes in the Scheduler, right next to the order.
+* Editors see their notes on the job page, under Editing instructions, and can tick them off as noted.
+* Admins and staff see every note on the order details page.
+
+Private notes are never shown to your clients or to brokerage managers. Your existing agent notes are kept and shared with everyone on your team.
+
+<img src=".gitbook/assets/Pasted image 2026-11-19 08.37.04.png" alt="" height="312" width="624">
+
+To set this up: Open a brokerage or an agent in \[Users] and go to the \[Private notes] tab. To choose which notes show on jobs, open a job template and go to \[Customize Information].
+
+\
+\
+**Clearer Job Page for Your Editors**\
+For teams using Jobs Management, the job page is easier to work from:
+
+* **Editing instructions in one list:** job instructions, brokerage notes and order notes are grouped together under Editing instructions, and editors tick each one off as noted, with a running count so nothing gets missed.
+* **You choose what shows:** in your job templates, every type of note now has its own switch, including a new one for brokerage notes, and order notes now appear as Editing instructions.
+* **Know who it's for:** the customer row shows a larger brokerage logo, and hovering over the customer shows their contact details.
+
+To set this up: Open a job template and go to **\[Customize Information]** to choose which notes appear on the job page.
+
+<img src=".gitbook/assets/Pasted image 2026-11-19 08.38.26.png" alt="" height="312" width="624">
+
+\
+\
+**See Everything That Happened on an Order in One Place**\
+The Activity Log on every order has been rebuilt into a single timeline, so you can see exactly what happened, when, and who did it.
+
+<img src=".gitbook/assets/Pasted image 2026-11-19 08.39.18.png" alt="" height="323" width="624">
+
+The timeline now shows:
+
+* Order events: when the order was booked or canceled.
+* Appointment events: when a shoot was scheduled, rescheduled or canceled, including which photographer was booked. When several services change at once, they are grouped together so the log stays easy to read.
+* Emails: when each email was sent, delivered and opened.
+* Text messages: every text Tonomo sent for the order, with the number it went to, the full message, what triggered it and whether it was delivered.
+
+Every entry is tagged with who made it happen, whether that was the customer, an admin, a contractor or Tonomo itself, along with their name. So when an agent asks "did you send me the confirmation?" or "who moved my shoot?", the answer is one click away.
+
+To find it: Open any order and go to the \[Activity Log] tab.
+
+<br>
+
+**Direct Upload Keeps Up with Dropbox Automatically**\
+If your team still drops files into Dropbox, Direct Upload now keeps up on its own. Dropbox auto-sync checks for new files every few minutes and brings them straight into Direct Upload, so you no longer need to press Sync to pull them in.
+
+Two related improvements make it more dependable:
+
+* Media you delete from Direct Upload stays deleted. It is no longer brought back the next time Dropbox syncs.
+* Photos that previously failed to upload to Direct Upload now upload properly.
+
+<br>
+
+**Booking from the Chat (Beta)**\
+Booking orders from an AI chat picks up three improvements this round:
+
+* Book without a date: get a quote and create the order now, and it waits in the Scheduler's list of orders to schedule.
+* Override the minimum notice: when you need to squeeze in a last-minute shoot, just ask, and the chat will book it inside your usual notice period.
+* Dutch addresses are now looked up the same way as on your booking page.
+
+\
+\
+**Minor Enhancements & Bug Fixes**
+
+* Date pickers across Tonomo, including your booking page, have a fresh look, and picking a time is now a single field with a menu in 15 minute steps.
+* Flyers in your marketing kit now generate more reliably and around 30% faster.
+* Success messages now disappear on their own after a few seconds, while error messages stay on screen until you close them.
+* In Jobs, your filters now stay in place when you open a job and come back, and they are remembered the next time you log in.
+* Staff can see the Sales section in order details again.
+* The Photographer maximum travel time setting now works as expected and explains that it limits the drive between appointments.
+* New portals without Dropbox connected no longer show a "Failed to create Dropbox folders" warning.
+* QuickBooks invoices from US accounts now sync properly when a booking flow uses tax-inclusive pricing with a 0% tax rate.
+
+\
+<br>
+
 ## 11/6/2026
 
 **Book Orders Straight From the Chat (Beta)**\

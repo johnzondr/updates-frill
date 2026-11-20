@@ -86,18 +86,7 @@ The timeline now shows:
 
 Every entry is tagged with who made it happen, whether that was the customer, an admin, a contractor or Tonomo itself, along with their name. So when an agent asks "did you send me the confirmation?" or "who moved my shoot?", the answer is one click away.
 
-To find it: Open any order and go to the \[Activity Log] tab.
-
-<br>
-
-**Direct Upload Keeps Up with Dropbox Automatically**\
-If your team still drops files into Dropbox, Direct Upload now keeps up on its own. Dropbox auto-sync checks for new files every few minutes and brings them straight into Direct Upload, so you no longer need to press Sync to pull them in.
-
-Two related improvements make it more dependable:
-
-* Media you delete from Direct Upload stays deleted. It is no longer brought back the next time Dropbox syncs.
-* Photos that previously failed to upload to Direct Upload now upload properly.
-
+To find it: Open any order and go to the \[Activity Log] tab\
 <br>
 
 **Booking from the Chat (Beta)**\
